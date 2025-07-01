@@ -6,7 +6,7 @@ import TimeZoneStatus from './TimeZoneStatus';
 export default function App() {
   return (
     <SafeAreaView style={styles.container}>
-     <TimeZoneStatus/>
+      <TimeZoneStatus />
     </SafeAreaView>
   );
 }
